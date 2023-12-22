@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm currently learning C#/.NET, but eventually I want to move to Game Development with C# and maybe C++ and onto Reverse Engineering.<br>Currently working on Assassin's Creed Remaster and Assassin's Creed Ezio Trilogy (2, Brotherhood and Revelations) Remaster alongside custom open source Launcher for them.
+I'm currently learning C#/.NET, but eventually I want to move to Game Development with C# and maybe C++ and onto Reverse Engineering.<br>Currently working on Assassin's Creed Remaster and Assassin's Creed - The Ezio Trilogy (2, Brotherhood and Revelations) Remaster alongside custom open source Launcher for them.
 
 
 ## 🌐 Socials:

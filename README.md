@@ -1,6 +1,5 @@
 # 💫 About Me:
-I'm currently learning C#/.NET, but eventually I want to move to Game Development with C# and maybe C++ and onto Reverse Engineering.<br>Currently working on Assassin's Creed Remaster and Assassin's Creed - The Ezio Trilogy (2, Brotherhood and Revelations) Remaster alongside custom open source Launcher for them.
-
+I'm currently learning C#/.NET, but eventually I want to move to Game Development with C# and maybe C++ and onto Reverse Engineering.<br>Currently working on Xenia Manager.
 
 ## 🌐 Socials:
 [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/ShazzaamLoL) [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/LoL_Shazzaam) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/Shazzaam2) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@UCY6tQqm4JK4Eu-PUwy7mHCw) 

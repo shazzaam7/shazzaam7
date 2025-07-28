@@ -1,4 +1,4 @@
-<h1 align="left">Hey there 👋</h1>
+<h1 align="center">Hey there 👋</h1>
 
 <div align="center">
   <a href="https://ko-fi.com/shazzaam" target="_blank">
@@ -8,16 +8,17 @@
 
 ---
 
+
 ## 🛠️ Languages & Tools
 
-### Programming Languages
+### 💻 Programming Languages
 <div align="center">
   <img src="https://skillicons.dev/icons?i=cs" height="48" alt="C#" />
   <img src="https://skillicons.dev/icons?i=py" height="48" alt="Python" />
   <img src="https://skillicons.dev/icons?i=js" height="48" alt="JavaScript" />
 </div>
 
-### Markup & Style
+### 🎨 Markup & Style
 <div align="center">
   <img src="https://skillicons.dev/icons?i=html" height="48" alt="HTML5" />
   <img src="https://skillicons.dev/icons?i=css" height="48" alt="CSS3" />
@@ -25,7 +26,7 @@
   <img src="https://skillicons.dev/icons?i=md" height="48" alt="Markdown" />
 </div>
 
-### Frameworks & Libraries
+### 🧩 Frameworks & Libraries
 <div align="center">
   <img src="https://skillicons.dev/icons?i=dotnet" height="48" alt=".NET" />
   <img src="https://skillicons.dev/icons?i=nodejs" height="48" alt="Node.js" />
@@ -37,13 +38,13 @@
   <img src="https://skillicons.dev/icons?i=d3" height="48" alt="D3.js" />
 </div>
 
-### Databases
+### 🗄️ Databases
 <div align="center">
   <img src="https://skillicons.dev/icons?i=mongodb" height="48" alt="MongoDB" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" height="48" alt="SQL Server" />
 </div>
 
-### Tools & Package Managers
+### 🧰 Tools & Package Managers
 <div align="center">
   <img src="https://skillicons.dev/icons?i=git" height="48" alt="Git" />
   <img src="https://skillicons.dev/icons?i=github" height="48" alt="GitHub" />
@@ -53,7 +54,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="48" alt="npm" />
 </div>
 
-### IDEs & Editors
+### 🖥️ IDEs & Editors
 <div align="center">
   <img src="https://skillicons.dev/icons?i=visualstudio" height="48" alt="Visual Studio" />
   <img src="https://skillicons.dev/icons?i=vscode" height="48" alt="VS Code" />
@@ -61,7 +62,7 @@
   <img src="https://skillicons.dev/icons?i=arduino" height="48" alt="Arduino" />
 </div>
 
-### Operating Systems
+### 🖥️ Operating Systems
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" height="48" alt="Windows" />
   <img src="https://skillicons.dev/icons?i=linux" height="48" alt="Linux" />

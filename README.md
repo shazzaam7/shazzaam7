@@ -1,77 +1,82 @@
-<div align="center">
-  <img height="150" src="https://raw.githubusercontent.com/shazzaam7/shazzaam7/refs/heads/master/Assets/Avatar.png"  />
-</div>
-
-###
+<h1 align="left">Hey there 👋</h1>
 
 <div align="center">
   <a href="https://ko-fi.com/shazzaam" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Ko-fi&logo=ko-fi&label=&color=F16061&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="ko-fi logo"  />
+    <img src="https://img.shields.io/static/v1?message=Ko-fi&logo=ko-fi&label=&color=F16061&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="ko-fi logo" />
   </a>
 </div>
 
-###
+---
 
-<h1 align="center">hey there 👋</h1>
+## 🛠️ Languages & Tools
 
-###
-
-<h3 align="left">🛠 Language and tools</h3>
-
-###
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="csharp logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" height="40" alt="dot-net logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nuget/nuget-original.svg" height="40" alt="nuget logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" height="40" alt="visualstudio logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rider/rider-original.svg" height="40" alt="rider logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="40" alt="tensorflow logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="40" alt="pytorch logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="40" alt="microsoftsqlserver logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="40" alt="arduino logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/insomnia/insomnia-original.svg" height="40" alt="insomnia logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fedora/fedora-original.svg" height="40" alt="fedora logo"  />
+### Programming Languages
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=cs" height="48" alt="C#" />
+  <img src="https://skillicons.dev/icons?i=py" height="48" alt="Python" />
+  <img src="https://skillicons.dev/icons?i=js" height="48" alt="JavaScript" />
 </div>
 
-###
+### Markup & Style
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=html" height="48" alt="HTML5" />
+  <img src="https://skillicons.dev/icons?i=css" height="48" alt="CSS3" />
+  <img src="https://skillicons.dev/icons?i=latex" height="48" alt="LaTeX" />
+  <img src="https://skillicons.dev/icons?i=md" height="48" alt="Markdown" />
+</div>
 
-<h3 align="left">🔥   My Stats :</h3>
+### Frameworks & Libraries
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=dotnet" height="48" alt=".NET" />
+  <img src="https://skillicons.dev/icons?i=nodejs" height="48" alt="Node.js" />
+  <img src="https://skillicons.dev/icons?i=express" height="48" alt="Express" />
+  <img src="https://skillicons.dev/icons?i=tensorflow" height="48" alt="TensorFlow" />
+  <img src="https://skillicons.dev/icons?i=pytorch" height="48" alt="PyTorch" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="48" alt="Pandas" />
+  <img src="https://skillicons.dev/icons?i=selenium" height="48" alt="Selenium" />
+  <img src="https://skillicons.dev/icons?i=d3" height="48" alt="D3.js" />
+</div>
 
-###
+### Databases
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=mongodb" height="48" alt="MongoDB" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" height="48" alt="SQL Server" />
+</div>
+
+### Tools & Package Managers
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=git" height="48" alt="Git" />
+  <img src="https://skillicons.dev/icons?i=github" height="48" alt="GitHub" />
+  <img src="https://skillicons.dev/icons?i=gitlab" height="48" alt="GitLab" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/insomnia/insomnia-original.svg" height="48" alt="Insomnia" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nuget/nuget-original.svg" height="48" alt="NuGet" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="48" alt="npm" />
+</div>
+
+### IDEs & Editors
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=visualstudio" height="48" alt="Visual Studio" />
+  <img src="https://skillicons.dev/icons?i=vscode" height="48" alt="VS Code" />
+  <img src="https://skillicons.dev/icons?i=rider" height="48" alt="Rider" />
+  <img src="https://skillicons.dev/icons?i=arduino" height="48" alt="Arduino" />
+</div>
+
+### Operating Systems
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" height="48" alt="Windows" />
+  <img src="https://skillicons.dev/icons?i=linux" height="48" alt="Linux" />
+  <img src="https://cdn.simpleicons.org/fedora/51A2DA" height="48" alt="Fedora" />
+  <img src="https://cdn.simpleicons.org/android/3DDC84" height="48" alt="Android" />
+</div>
+
+---
+
+## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=shazzaam7&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=shazzaam7&show_icons=true&theme=dracula&hide_border=false" height="150" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=shazzaam7&layout=compact&theme=dracula&hide_border=false" height="150" alt="Top Languages" />
+  <img src="https://streak-stats.demolab.com?user=shazzaam7&theme=dracula&hide_border=false&border_radius=5" height="150" alt="GitHub Streak" />
 </div>
 
-###
+---

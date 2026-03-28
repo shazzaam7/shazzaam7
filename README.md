@@ -8,10 +8,10 @@
 
 ---
 
-
 ## 🛠️ Languages & Tools
 
 ### 💻 Programming Languages
+
 <div align="center">
   <img src="https://skillicons.dev/icons?i=cs" height="48" alt="C#" />
   <img src="https://skillicons.dev/icons?i=py" height="48" alt="Python" />
@@ -20,6 +20,7 @@
 </div>
 
 ### 🎨 Markup & Style
+
 <div align="center">
   <img src="https://skillicons.dev/icons?i=html" height="48" alt="HTML5" />
   <img src="https://skillicons.dev/icons?i=css" height="48" alt="CSS3" />
@@ -28,6 +29,7 @@
 </div>
 
 ### 🧩 Frameworks & Libraries
+
 <div align="center">
   <img src="https://skillicons.dev/icons?i=dotnet" height="48" alt=".NET" />
   <img src="https://skillicons.dev/icons?i=nodejs" height="48" alt="Node.js" />
@@ -41,6 +43,7 @@
 </div>
 
 ### 🗄️ Databases
+
 <div align="center">
   <img src="https://skillicons.dev/icons?i=mongodb" height="48" alt="MongoDB" />
   <img src="https://skillicons.dev/icons?i=sqlite" height="48" alt="SQLite" />
@@ -48,6 +51,7 @@
 </div>
 
 ### 🧰 Tools & Package Managers
+
 <div align="center">
   <img src="https://skillicons.dev/icons?i=git" height="48" alt="Git" />
   <img src="https://skillicons.dev/icons?i=github" height="48" alt="GitHub" />
@@ -58,6 +62,7 @@
 </div>
 
 ### 🖥️ IDEs & Editors
+
 <div align="center">
   <img src="https://skillicons.dev/icons?i=rider" height="48" alt="Rider" />
   <img src="https://skillicons.dev/icons?i=clion" height="48" alt="CLion" />
@@ -67,6 +72,7 @@
 </div>
 
 ### 🖥️ Operating Systems
+
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" height="48" alt="Windows" />
   <img src="https://skillicons.dev/icons?i=linux" height="48" alt="Linux" />
@@ -80,8 +86,8 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shazzaam7&show_icons=true&theme=dracula&hide_border=false" height="150" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=shazzaam7&layout=compact&theme=dracula&hide_border=false" height="150" alt="Top Languages" />
+  <img src="./assets/profile/stats.svg" height="150" alt="GitHub Stats" />
+  <img src="./assets/profile/top-langs.svg" height="150" alt="Top Languages" />
 </div>
 
 ---

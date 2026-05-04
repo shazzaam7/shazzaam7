@@ -9,7 +9,7 @@
         aria-labelledby="descId"
       >
         <title id="titleId">Shazzaam's GitHub Stats, Rank: A-</title>
-        <desc id="descId">Total Stars Earned: 15, Total Commits  (last year) : 1543, Total PRs: 167, Total Issues: 34, Contributed to (last year): 18</desc>
+        <desc id="descId">Total Stars Earned: 15, Total Commits  (last year) : 1526, Total PRs: 167, Total Issues: 34, Contributed to (last year): 18</desc>
         <style>
           .header {
             font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif;
@@ -73,7 +73,7 @@
         stroke-dashoffset: 251.32741228718345;
       }
       to {
-        stroke-dashoffset: 85.74510720470671;
+        stroke-dashoffset: 85.77314481986629;
       }
     }
   

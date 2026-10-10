@@ -1,0 +1,254 @@
+{
+  "user": "shazzaam7",
+  "avatar": "Assets/Avatar.png",
+  "projects_per_row": 2,
+  "hero": {
+    "eyebrow": "OPEN-SOURCE DEVELOPER",
+    "name": "Shazzaam",
+    "headline": "I build open-source desktop apps and websites.",
+    "detail": "Emulator tooling, controller utilities, game fixes, websites.",
+    "chips": [
+      "C#",
+      "Windows",
+      "Linux"
+    ]
+  },
+  "badges": [
+    {
+      "text": "Support me",
+      "logo": "kofi",
+      "href": "https://ko-fi.com/shazzaam",
+      "alt": "Support on Ko-fi"
+    },
+    {
+      "text": "Sponsor",
+      "logo": "githubsponsors",
+      "href": "https://github.com/sponsors/shazzaam7",
+      "alt": "GitHub Sponsors"
+    }
+  ],
+  "sections": {
+    "projects": {
+      "title": "Projects",
+      "subtitle": "Open-source desktop apps and tooling",
+      "icon": "folder"
+    },
+    "stack": {
+      "title": "Stack",
+      "subtitle": "Languages, frameworks and tools I use",
+      "icon": "layers"
+    }
+  },
+  "projects": [
+    {
+      "title": "Xenia Manager",
+      "href": "https://xenia-manager.github.io",
+      "subtitle": "Makes using the Xenia emulator easier\nC#, AvaloniaUI, Python, TypeScript",
+      "logo": "ri:FaXbox",
+      "repo": "xenia-manager/xenia-manager",
+      "side": [
+        "xenia-manager/optimized-settings",
+        "xenia-manager/database",
+        "xenia-manager/x360db",
+        "xenia-manager/wiki",
+        "xenia-manager/xenia-manager.github.io"
+      ]
+    },
+    {
+      "title": "DualSenseClient",
+      "href": "https://github.com/DualSenseClient",
+      "subtitle": "Full DualSense experience on Windows and Linux\nC#, Avalonia",
+      "logo": "ri:FaPlaystation",
+      "repo": "DualSenseClient/DualSenseClient",
+      "side": [
+        "DualSenseClient/VIIPER"
+      ]
+    },
+    {
+      "title": "Animus Reforged",
+      "href": "https://www.nexusmods.com/assassinscreed/mods/32",
+      "subtitle": "Community-edition remaster of Assassin's Creed 1\nC++, C#, AvaloniaUI",
+      "logo": "ubisoft",
+      "repo": "animus-reforged/animus-reforged",
+      "side": [
+        "animus-reforged/AltairFix"
+      ]
+    }
+  ],
+  "stack": [
+    {
+      "label": "Languages",
+      "icons": [
+        [
+          "C#",
+          "csharp"
+        ],
+        [
+          "C++",
+          "cplusplus"
+        ],
+        [
+          "Go",
+          "go:original-wordmark"
+        ],
+        [
+          "Python",
+          "python"
+        ],
+        [
+          "TypeScript",
+          "typescript"
+        ],
+        [
+          "JavaScript",
+          "javascript"
+        ],
+        [
+          "HTML",
+          "html5"
+        ],
+        [
+          "CSS",
+          "css3"
+        ]
+      ]
+    },
+    {
+      "label": "Frameworks",
+      "icons": [
+        [
+          ".NET",
+          "simpleicons/dotnet"
+        ],
+        [
+          "AvaloniaUI",
+          "simpleicons/avaloniaui"
+        ],
+        [
+          "Node.js",
+          "nodejs"
+        ],
+        [
+          "Next.js",
+          "nextjs"
+        ],
+        [
+          "Express",
+          "express"
+        ]
+      ]
+    },
+    {
+      "label": "ML & data",
+      "icons": [
+        [
+          "TensorFlow",
+          "tensorflow"
+        ],
+        [
+          "PyTorch",
+          "pytorch"
+        ],
+        [
+          "Pandas",
+          "simpleicons/pandas"
+        ],
+        [
+          "D3",
+          "d3js"
+        ],
+        [
+          "MongoDB",
+          "mongodb"
+        ],
+        [
+          "SQLite",
+          "sqlite"
+        ],
+        [
+          "MicrosoftSQLServer",
+          "microsoftsqlserver:plain-wordmark"
+        ]
+      ]
+    },
+    {
+      "label": "Tools",
+      "icons": [
+        [
+          "Git",
+          "git"
+        ],
+        [
+          "GitHub",
+          "github"
+        ],
+        [
+          "GitLab",
+          "gitlab"
+        ],
+        [
+          "npm",
+          "npm"
+        ],
+        [
+          "Selenium",
+          "selenium"
+        ],
+        [
+          "LaTeX",
+          "latex"
+        ],
+        [
+          "Markdown",
+          "markdown"
+        ]
+      ]
+    },
+    {
+      "label": "IDEs",
+      "icons": [
+        [
+          "Rider",
+          "rider"
+        ],
+        [
+          "CLion",
+          "clion"
+        ],
+        [
+          "Visual Studio",
+          "visualstudio"
+        ],
+        [
+          "VS Code",
+          "vscode"
+        ],
+        [
+          "Arduino",
+          "arduino"
+        ]
+      ]
+    },
+    {
+      "label": "Platforms",
+      "icons": [
+        [
+          "Windows",
+          "windows8"
+        ],
+        [
+          "CachyOS",
+          "simpleicons/cachyos"
+        ],
+        [
+          "Nobara Project",
+          "simpleicons/nobaralinux"
+        ],
+        [
+          "Android",
+          "simpleicons/android"
+        ]
+      ]
+    }
+  ]
+}

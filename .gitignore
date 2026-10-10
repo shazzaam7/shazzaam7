@@ -1,0 +1,15 @@
+# Downloaded icon cache (rebuilt by scripts/build_profile.py)
+scripts/.icon-cache/
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# Editors and OS files
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+desktop.ini
